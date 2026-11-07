@@ -12,7 +12,7 @@ class BothRoom
 		Thread.sleep(3000);
 		System.out.println(name+" is using ");
 		Thread.sleep(3000);
-		System.out.println(name+" is complet ");
+		System.out.println(name+" is completed ");
 	}
 	catch(Exception e)
 	{
